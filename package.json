@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "description": "Claire's test repo",
   "dependencies": {
+    "jest": "^30.0.5",
   },
 }
